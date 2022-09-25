@@ -2,7 +2,7 @@
 
 Conditions:
 
-- Implement one of the data structures from the list below.
+- Implement one of the data structures.
 - Add an interactive menu (command line)
 - Add the possibility to load the data structure from a file and display it in the terminal.
 - Add the possibility to input the data structure from keyboard and save it in a file.
