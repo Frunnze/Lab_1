@@ -19,6 +19,7 @@ struct node* create_node(int val)
     return new_node;
 }
 
+
 // Function to insert a node.
 struct node* insert_node(struct node* node, int val)
 {
